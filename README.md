@@ -7,3 +7,13 @@ We build a data set ViCCSP for the comment classification problem based on user 
 ## Example of ViSDC dataset
 
 <img width="693" alt="NER-Example" src="https://github.com/duyngoc-adn/ViCCSP_ViSDC/assets/73750674/f3c4b1bb-ee55-45fa-9202-0c736e6c2a11">
+
+## Contact
+Authors:
+Tam Huu Minh Nguyen, Tinh Pham Phuc Do, Ngoc Dinh Duy Cao, The Tran Gia Nguyen, and Trong-Hop Do
+
+Faculty of Information Science and Engineering, University of Information Technology, Ho Chi Minh City, Vietnam
+
+Vietnam National University, Ho Chi Minh City, Vietnam
+
+{20521871,20522020,20521661,20521940}@gm.uit.edu.vn and hopdt@uit.edu.vn
