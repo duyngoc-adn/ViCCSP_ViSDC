@@ -8,6 +8,19 @@ We build a data set ViCCSP for the comment classification problem based on user 
 
 <img width="693" alt="NER-Example" src="https://github.com/duyngoc-adn/ViCCSP_ViSDC/assets/73750674/f3c4b1bb-ee55-45fa-9202-0c736e6c2a11">
 
+## Dataset visualizations
+### ViCCSP
+![Classification-dataset visualization](https://github.com/duyngoc-adn/ViCCSP_ViSDC/assets/73750674/090973ac-41d2-487f-9adf-7c6a0ef3caa9)
+### ViSDC
+![NER-dataset visualization](https://github.com/duyngoc-adn/ViCCSP_ViSDC/assets/73750674/cf1a204f-ce86-46ec-b341-fb0f36e03b7f)
+
+## Model Performance
+### ViCCSP
+<img width="514" alt="Classification Performance" src="https://github.com/duyngoc-adn/ViCCSP_ViSDC/assets/73750674/babe0293-3f03-4b50-ac1a-613ea73f28cd">
+
+### ViSDC
+<img width="643" alt="NER-Performance" src="https://github.com/duyngoc-adn/ViCCSP_ViSDC/assets/73750674/4d58c0ad-7c8b-4436-90e0-e88d50822a84">
+
 ## Contact
 Authors:
 Tam Huu Minh Nguyen, Tinh Pham Phuc Do, Ngoc Dinh Duy Cao, The Tran Gia Nguyen, and Trong-Hop Do
